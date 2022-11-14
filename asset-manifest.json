@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "https://okay-trio.github.io/csb-ojps2o/static/css/main.f29ae65a.chunk.css",
-    "main.js": "https://okay-trio.github.io/csb-ojps2o/static/js/main.45732677.chunk.js",
-    "main.js.map": "https://okay-trio.github.io/csb-ojps2o/static/js/main.45732677.chunk.js.map",
+    "main.js": "https://okay-trio.github.io/csb-ojps2o/static/js/main.a3559ee1.chunk.js",
+    "main.js.map": "https://okay-trio.github.io/csb-ojps2o/static/js/main.a3559ee1.chunk.js.map",
     "runtime-main.js": "https://okay-trio.github.io/csb-ojps2o/static/js/runtime-main.ce78353a.js",
     "runtime-main.js.map": "https://okay-trio.github.io/csb-ojps2o/static/js/runtime-main.ce78353a.js.map",
     "static/js/2.da13948a.chunk.js": "https://okay-trio.github.io/csb-ojps2o/static/js/2.da13948a.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.ce78353a.js",
     "static/js/2.da13948a.chunk.js",
     "static/css/main.f29ae65a.chunk.css",
-    "static/js/main.45732677.chunk.js"
+    "static/js/main.a3559ee1.chunk.js"
   ]
 }
